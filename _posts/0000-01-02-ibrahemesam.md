@@ -2,5 +2,5 @@
 layout: slide
 title: "slide new"
 ---
-brand new iphone
+brand new iphone :tada:
 Use the left arrow to go back!
