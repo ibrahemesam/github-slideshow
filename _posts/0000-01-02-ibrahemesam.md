@@ -3,5 +3,5 @@ layout: slide
 title: "slide new"
 ---
 brand new iphone :tada:
-homny
+mit
 Use the left arrow to go back!
