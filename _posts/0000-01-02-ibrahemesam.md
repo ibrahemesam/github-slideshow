@@ -2,5 +2,5 @@
 layout: slide
 title: "slide new"
 ---
-brand new text
+brand new iphone
 Use the left arrow to go back!
